@@ -21,7 +21,7 @@ El proyecto consiste en desarrollar una tienda online especializada en la venta 
 
 
 
-## Alcance Funcional 
+## Alcance Funcional
 
 ### Alcance Mínimo
 
