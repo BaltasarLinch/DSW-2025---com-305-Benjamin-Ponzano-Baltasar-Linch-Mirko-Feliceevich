@@ -17,7 +17,7 @@
 El proyecto consiste en desarrollar un sistema web de gestión de stock para una tienda gastronomica con 3 sucursales. Permite a los administradores registrar productos e ingredientes, cargar ventas, ingresos de mercadería y elaboraciones internas. Los empleados pueden consultar el stock disponible en tiempo real desde cualquier dispositivo y registrar ventas y elaboraciones internas. El sistema centraliza la información de las tres sucursales, permitiendo al dueño tener visibilidad global del negocio desde cualquier lugar.
 
 ### Modelo
-[![Modelo-Dominio-Tp-DSW.png](https://i.postimg.cc/3NJ23xX4/DSW-drawio-(1).png)](https://postimg.cc/7Gd5VDQw)
+[![Modelo-Dominio-Tp-DSW.png](https://i.postimg.cc/4325L0jw/DSW1-drawio-(1).png)](https://postimg.cc/rdWxzfVt)
 
 
 
@@ -47,7 +47,7 @@ Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |Listados |1. Reporte de precios de compra de ingredientes y de productos <br>2. lista de elaboraciones filtrada por fecha y sucursal|
-|CUU/Epic|1. Registrar usuario <br>2. Eliminar Usuario |
+|CUU/Epic|1. Registrar usuario <br>2. Eliminar Usuario <br>3.Notificacion de stock bajo |
 
 
 
